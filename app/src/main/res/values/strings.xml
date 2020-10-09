@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dtsCttanHarian</string>
+    <string name="txt1">PROYEK 1</string>
+    <string name="Simpan">Simpan</string>
+    <string name="Catatan">Catatan</string>
+    <string name="NamaFile">Nama File</string>
+    <string name="actTambah">Tambah</string>
+
+
+</resources>
